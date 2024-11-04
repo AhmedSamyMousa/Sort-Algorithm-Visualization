@@ -1,6 +1,6 @@
-# Sort Visualization with SFML
+# Sort Algorithm Visualization
 
-This project visualizes the Quick Sort algorithm using the Simple and Fast Multimedia Library (SFML). The visualization displays an array of bars representing numerical values, which are sorted in real-time, allowing users to observe the inner workings of the sorting algorithm.
+This project visualizes various sorting algorithms using the Simple and Fast Multimedia Library (SFML). Currently, it implements the Quick Sort algorithm, allowing users to observe how sorting algorithms work in real-time.
 
 ## Features
 
@@ -17,5 +17,5 @@ This project visualizes the Quick Sort algorithm using the Simple and Fast Multi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/sort-visualization-sfml.git
-   cd sort-visualization-sfml
+   git clone https://github.com/AhmedSamyMousa/Sort-Algorithm-Visualization.git
+   cd Sort-Algorithm-Visualization
