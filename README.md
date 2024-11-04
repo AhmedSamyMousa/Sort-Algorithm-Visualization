@@ -1,6 +1,8 @@
 # Sort Algorithm Visualization
 
-This project visualizes various sorting algorithms using the Simple and Fast Multimedia Library (SFML). Currently, it implements the Quick Sort algorithm, allowing users to observe how sorting algorithms work in real-time.
+This project visualizes various sorting algorithms using the Simple and Fast Multimedia Library (SFML). 
+
+![Sorting Visualization](image.png)  <!-- Add this line to reference your uploaded image -->
 
 ## Features
 
